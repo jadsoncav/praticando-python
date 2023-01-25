@@ -1,4 +1,4 @@
 # praticando python
- lista de exercício python
+ Lista de exercício python
  
- repositório criado com o intuito de armazenar o processo de apredizado de python.
+ Repositório criado com o intuito de armazenar o processo de apredizado de python.
